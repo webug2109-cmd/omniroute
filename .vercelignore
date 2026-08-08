@@ -1,0 +1,8 @@
+_tasks
+.git
+.github
+.next/cache
+tests
+node_modules/.cache
+.env.local
+.env.*.local
